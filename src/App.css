@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding:0 3vw 3vw;
+  background-color:rgb(244, 244, 244);
+}
+
+#about {
+  padding-top: 30px;
+}
+
+.About{
+  width:86vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quote {
+  padding-top: 15px;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: rgb(255, 133, 2);
+}

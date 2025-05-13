@@ -1,0 +1,50 @@
+.employment {
+    padding-top: 30px;
+}
+
+.degree-stats {
+    padding-top: 30px;
+}
+
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 25px;
+}
+
+.stat-box {
+    max-width: 300px;
+}
+
+.stat-value {
+    color:rgb(246, 134, 14);
+}
+
+.employers-careers {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.coop-table {
+    max-height: 500px;
+    overflow-y: auto;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.employment-table {
+    max-height: 500px;
+    overflow-y: auto;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+thead th{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
